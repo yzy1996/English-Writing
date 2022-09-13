@@ -11,8 +11,8 @@
   - 按文章Structure细分话术
     - [Abstract](./1-Abstract.md)
     - [Introduction](./2-Introduction.md)
-    - [Related Work](./3-Related-Works.md)
-    - [Methods](./4-Methods.md)
+    - [Related Work](./3-Related-Work.md)
+    - [Method](./4-Method.md)
     - ...
   - 公式相关
   - 数学符号
