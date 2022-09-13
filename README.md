@@ -9,9 +9,10 @@
 - General (通用型词汇&话术)
   - 好的英语词汇
   - 按文章Structure细分话术
-    - Introduction (和abstract有极大重合)
-    - Related Work
-    - Methods
+    - [Abstract](./1-Abstract)
+    - [Introduction](./2-Introduction)
+    - [Related Work](./3-Related-Works)
+    - [Methods](./4-Methods)
     - ...
   - 公式相关
   - 数学符号
@@ -24,3 +25,11 @@
 [Giving an Academic Talk](https://people.eecs.berkeley.edu/~jrs/speaking.html)
 
 [Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html)
+
+
+
+**参考文献：**
+
+https://github.com/MLNLP-World/SimBiber
+
+https://github.com/yuchenlin/rebiber

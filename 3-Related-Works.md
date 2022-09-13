@@ -1,3 +1,16 @@
+# Related Works
+
+> 这里举例很多种写作方式，可以自由组合调整
+
+
+
+| 先笼统介绍，再细说一些方法的核心区别                         |
+| ------------------------------------------------------------ |
+| **Some using full-supervision** in the form of semantic labels, **others** find meaningful directions **in a self-supervised fashion**, and, **finally**, recent works present **unsupervised methods** to achieve the same goal. |
+| **More specifically**, **xx use** supervision in the form of facial attribute labels to find meaningful linear direction... **yy perform** eigenvector decomposition on the generator's weights to find edit directions without additional supervision. |
+
+
+
 Its formulation has been adapted for improving A, dealing with B, removing C, and handling D. Although there have been some early attempts in E, the usage of F has never been explored for G. This work addresses this gap by proposing H as I that leverages K.
 
 -- CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems
@@ -33,3 +46,6 @@ Our method build upon this line of research
 
 
 xx are related to many other bodies of work.
+
+
+

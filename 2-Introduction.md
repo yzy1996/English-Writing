@@ -1,8 +1,6 @@
-本文介绍如何写作 introduction
+# Introduction
 
-[toc]
-
-> 出处忘记了:sweat_smile:
+> 出处忘记了:sweat_smile:，与大家共勉。
 
 introduction重点在于说明自己的研究思路，很多人搞了半辈子的研究，到头来写文章时忘记的研究的初衷。好的套路就是把读者当成你的同行，讲清楚研究工作的来龙去脉。下面分三步说明。第一步，你发现有什么问题，这篇论文要解决什么问题？实际工作中存在什么问题。不要扯太远，尽量不要超过3句话。这第一步可能就把很多人难住了。尼玛课题都是老板定的，有个毛意义呀，不知道，就瞎扯一个。如果实在不清楚，说明占有的文献还不够，还得多读读。第二步，基于本人前期的研究基础，或者受前人的思路激发，我想出了方法来解决第一步的问题。这一步是关键。很多人的introduction根本没这些内容。完全就是一副“这玩意以前没人搞过，我用一种方法来试试”的态度。这一步为什么非常关键？因为同样的问题，如果很重要，很有意义的问题，肯定很多人想到了，为什么别人没做，而你想做？只有2种可能，我这里有研究基础，别人做不了，我能做。还有一种可能，这里面有难点，我也是受哪篇哪篇文章的激发，才想起解决方法，所以我才顺便试试，结果你看，一搞，结果挺好，所以来跟你们报告一下。这里面就需要吹吹牛逼了，可以弹压一下前人的工作，鼓吹一下自己的工作。第三步，前面牛吹了，后面当然要简单介绍一下结果，谈点意义，勾引读者往下看研究方法。论文的重点在于论，要讲清楚研究思路，而不是搞成实验报告。
 
@@ -16,7 +14,14 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
   >
   > Can this been done in an unsupervised manner
   
-  
+
+
+
+|                                                              |
+| ------------------------------------------------------------ |
+| The research question we are addressing in this work is, whether *an event stream from a DVS moving around the scene is sufﬁcient to reconstruct a 3D representation of a static scene, e.g., NeRF*. |
+|                                                              |
+|                                                              |
 
 
 
@@ -25,6 +30,52 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 The main drawback of such models
 
 现在新领域的方法远远落后于过去某一领域的技术  lagged far behind
+
+
+
+
+
+第一段交代你所解决的任务
+
+We consider the task of ...
+
+A key cha;;enge in this task is ...
+
+
+
+第二段交代过去方法是怎么来做的
+
+Prior attempts ..
+
+For instance, ...
+
+Several follow-up studies propose to ...
+
+最后一句说 While these methods compensate .. by .., this task remains challenging.
+
+
+
+第三段交代我们的方法是 
+
+In this work, we propose a new approach, <Name> 
+
+我们为什么要提出，（肯定是觉得有潜力可以解决，所以可以是什么技术在其他任务上不错，我们觉得这个人物上也应该可以，因为是类似的，都需要一个什么特点）
+
+
+
+第四段交代我们的具体方法
+
+We propose to exploit 
+
+Specifically， 偶然framework..
+
+
+
+还可以先说什么问题，我们提出了一个什么loss，或者什么方法来解决
+
+
+
+
 
 
 
@@ -206,11 +257,28 @@ As a result, our approach inherits xx 好处 and yy 好处, seperated from zz �
 
 
 
+|                                                              |
+| ------------------------------------------------------------ |
+| in essence, our method extends, ..., as demonstrated in Figure 1. |
+|                                                              |
+|                                                              |
+
+
+
 ## 如果是和别人工作的嫁接，组合式的论文 
 
 xx marries (y method) with [z method]
 
 our framework combines the benefits of xx with those of yy, enabling zz 
+
+
+
+| 方法不是原创的，但我拿来用到了一个新的领域                   |
+| ------------------------------------------------------------ |
+| *Tuning the generator to accommodate a given input image* (描述你的方法) is not new~\cite{}, we first introduce this approach to the field of *StyleGAN-based editing*. |
+| (最好还要写出我不是生硬地套过来，是因地制宜的，或者效果更好，达到了我的目的) In contrast to the aforementioned work, our technique maintains *the unique editing capabilities, while preserving identity accurately.* |
+
+
 
 
 
@@ -245,6 +313,18 @@ for more details, we refer readers to sb
 we assume a fixed, and remove the subscript xx notation to simplify notation.
 
 which we will call a “diffusion model” for brevity
+
+
+
+
+
+## 最后一段
+
+夸就完事了，给大家看看夸的最高境界
+
+We validate our approach through quantitative and qualitative results and demonstrate that our method achieves state-of-the-art results for the task of StyleGAN inversion and real image editing. In Section 4, we show that not only do we achieve better reconstruction but also superior editability. We show this through the utilization of several existing editing techniques and achieve realistic editing even on challenging images. Furthermore, we confirm that using our regularization restricts the Pivotal Tuning side effect to be local, with negligible effect on distant latent codes, and that Pivotal Tuning can be applied for multiple images simultaneously to incorporate several identities into the same model (see Figure 3). Finally, we show through numerous challenging examples that our pivotal tuning-based inversion approach achieves completely automatic, fast, faithful, and powerful editing capabilities.
+
+We validate our approach through quantitative and qualitative results and demonstrate that our method achieves state-of-the-art results for the task of *StyleGAN inversion and real image editing*.
 
 
 
