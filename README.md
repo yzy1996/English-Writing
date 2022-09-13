@@ -7,12 +7,12 @@
 可以大体做如下分类：
 
 - General (通用型词汇&话术)
-  - 好的英语词汇
+  - [好的英语词汇](./0-好的英语词汇.md)
   - 按文章Structure细分话术
-    - [Abstract](./1-Abstract)
-    - [Introduction](./2-Introduction)
-    - [Related Work](./3-Related-Works)
-    - [Methods](./4-Methods)
+    - [Abstract](./1-Abstract.md)
+    - [Introduction](./2-Introduction.md)
+    - [Related Work](./3-Related-Works.md)
+    - [Methods](./4-Methods.md)
     - ...
   - 公式相关
   - 数学符号
