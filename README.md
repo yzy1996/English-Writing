@@ -1,5 +1,9 @@
 # Enhance Your English Writing :punch:
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
+
+
 这里主要是我在阅读论文的过程中收集整理的一些好的**英语用法**，希望能帮助到你的写作。
 
 
@@ -28,7 +32,7 @@
 
 
 
-**参考文献：**
+**帮助你修改bib文件：**
 
 https://github.com/MLNLP-World/SimBiber
 
