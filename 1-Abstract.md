@@ -6,11 +6,19 @@
 
 > 你为什么要提出这个方法？一般要说过去的方法存在什么问题
 
+
+
+一般采用如下方式
+
+- 阐述问题，然后我们提出了一个新方法
+- （开门见山）我们提出了一个新方法，为什么要提出呢？
+
+
+
 | xx问题正面临一个困境，要么<质量好>，要么<可编辑性强>，我们提出的方法正好能同时实现。 |
 | :----------------------------------------------------------- |
 | **Existing** 3D-aware facial generation methods **face a dilemma** in quality **versus** editability: they either generate editable results in low resolution, or high quality ones with no editing flexibility. |
 | In this work, we propose a new approach that **brings the best of both worlds together**. |
-|                                                              |
 
 
 
@@ -22,6 +30,24 @@
 
 
 
+|                                                              |
+| ------------------------------------------------------------ |
+| Neural Radiance Fields (NeRF) **have recently demonstrated** photo- realistic results **for the task of** novel view synthesis. In this paper, we propose to **apply** novel view synthesis **to** the robot relocalization problem: [details] |
+
+
+
+| 某技术或者领域在实现TaskA上已经做得很好了，但TaskB还不能很好解决 |
+| ------------------------------------------------------------ |
+| **While** generating realistic images **is no longer a difficult task**, producing the corresponding 3D structure such that they can be rendered from different views **is non-trivial**. |
+
+
+
+| 也有第一句直接说我们的名称，做了什么                         |
+| ------------------------------------------------------------ |
+| **We present a method for** learning a generative 3D model based on nerf, trained solely from data with only single views of each object. |
+
+
+
 ## 中间句
 
 > 描述你的方法
@@ -29,7 +55,6 @@
 | 前面描述存在什么问题，在这里我们希望解决他                   |
 | :----------------------------------------------------------- |
 | To this end （为了这个目的）, this paper proposes xx with three distinct novelties. |
-|                                                              |
 
 
 
@@ -45,15 +70,12 @@
 | :----------------------------------------------------------- |
 | Our system consists of three major components: (1) a xx model that...; (2) a xx approach that...; (3) a xx |
 | Specifically, our model/system first adapts. Then, we Finally, |
-|                                                              |
 
 
 
 | 补充一句，我们的方法没有牺牲之前好的性质，反正增加了什么     |
 | :----------------------------------------------------------- |
 | we show that our method does not sacrifice the, improving the xx |
-|                                                              |
-|                                                              |
 
 
 
