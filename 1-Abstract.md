@@ -4,14 +4,16 @@
 
 ## 开头句
 
-> 你为什么要提出这个方法？一般要说过去的方法存在什么问题
+> 你为什么要提出这个方法？一般说过去的方法存在什么问题
 
 
 
-一般采用如下方式
+通常采用如下方式
 
-- 阐述问题，然后我们提出了一个新方法
+- 介绍背景，阐述问题，然后我们提出了一个新方法。
+- 什么方法对TaskA有效，我们想应用到TaskB。
 - （开门见山）我们提出了一个新方法，为什么要提出呢？
+
 
 
 
@@ -22,27 +24,21 @@
 
 
 
-| 一个问题是值得被研究的，因为很多人研究了好久。然而存在一个问题，但这个问题背后的xx是非常重要的 |
-| :----------------------------------------------------------- |
-| Recently, xx has achieved great empirical success, especially xx |
-| However, a key problem if xx is that ..                      |
-| It's necessary to xx                                         |
-
-
-
-|                                                              |
+| 先说xx是最近一个大红大热的方向，简要写一下它的原理，它的好处；然而，现有方法还存在一些问题；为了解决它，我们提出了… |
 | ------------------------------------------------------------ |
-| Neural Radiance Fields (NeRF) **have recently demonstrated** photo- realistic results **for the task of** novel view synthesis. In this paper, we propose to **apply** novel view synthesis **to** the robot relocalization problem: [details] |
+| xx **is a promisingnew avenue of** …, xx **ensure many advantages over** …; **However, the current approach is dufficult to** …; **To address this issue, we propose** … |
+| Recently, xx **has achieved great empirical success**, especially …; **However, a key problem** of xx is that …; **It's necessary to** … |
 
 
 
 | 某技术或者领域在实现TaskA上已经做得很好了，但TaskB还不能很好解决 |
 | ------------------------------------------------------------ |
 | **While** generating realistic images **is no longer a difficult task**, producing the corresponding 3D structure such that they can be rendered from different views **is non-trivial**. |
+| Neural Radiance Fields (NeRF) **have recently demonstrated** photo- realistic results **for the task of** novel view synthesis. In this paper, we propose to **apply** novel view synthesis **to** the robot relocalization problem: [details] |
 
 
 
-| 也有第一句直接说我们的名称，做了什么                         |
+| 第一句直接说我们的名称，做了什么                             |
 | ------------------------------------------------------------ |
 | **We present a method for** learning a generative 3D model based on nerf, trained solely from data with only single views of each object. |
 
@@ -88,9 +84,10 @@
 | Both **quantitative** and **qualitative** results show that our method **reaches the state-of-the-art** in terms of photorealism, faithfulness and efficiency. |
 | We show **promising result** on xx                           |
 | **Quantitative and qualitative evaluation** on both controlled and in-the-wild databases demonstrate the superiority of DR-GAN **over the state of the art**. |
-| Experiments show that our proposed framework **significantly outperforms SOTA methods** on xx dataset |
-| In contrast to existing works on neural 3D scene representation learning, this paper approaches the problem from a new perspective |
-| Extensive experiments demonstrate that our framework can achieve ideal editing results not only on synthetic data, but also on realscenes captured by users. |
+| **Experiments show that** our proposed framework **significantly outperforms SOTA methods** on xx dataset |
+| **In contrast to existing works** on neural 3D scene representation learning, this paper approaches the problem from a new perspective |
+| **Extensive experiments demonstrate that** our framework can achieve ideal editing results not only on synthetic data, but also on realscenes captured by users. |
+| **We empirically demonstrate that** xx achieve a much smaller loss than xx. |
 
 
 
@@ -100,4 +97,4 @@
 
 While NeRF has shown great success for neural reconstruction and rendering, its limited MLP capacity and long per-scene optimization times make it challenging to model large-scale indoor scenes. In contrast, classical 3D reconstruction methods can handle large-scale scenes but do not produce realistic renderings. We propose NeRFusion, a method that combines the advantages of NeRF and TSDF-based fusion techniques to achieve efficient large-scale reconstruction and photo-realistic rendering.
 
-> 先说一个**新技术**很成功，但依旧存在一些问题；(in contrast) **传统方法**可以解决这些问题，但也有一些问题；因此提出一个新方法，融合两种，实现了xxx
+> 先说一个**新技术**很成功，但依旧存在一些问题；(in contrast) **传统方法**可以解决这些问题，但也有一些问题；因此提出一个新方法，融合两种，实现了xxx 

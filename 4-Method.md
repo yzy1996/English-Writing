@@ -7,7 +7,6 @@
 | 一般开头写一个结构安排                                       |
 | ------------------------------------------------------------ |
 | **In this section**, **we provide a more detailed description of the presented approach**, *IDE-3D*. **The organization of this section is as follows**: We introduce xx **in Sec. 3.1**, including xx. **In Sec. 3.2**, we first describe xx. **Then we present** xx. |
-|                                                              |
 
 
 
@@ -17,12 +16,14 @@
 | To begin with, we review the basic idea and pipeline of xxx. |
 | Then, we introduce our efficient strategies during training... |
 | Finally, we represente the whole scene by our proposed xxx.  |
+| In this chapter, … Thereafter, … Then …                      |
 
 
 
-| 正文介绍插图   |
-| -------------- |
-| Fig depicts xx |
+| 正文介绍插图                                                 |
+| ------------------------------------------------------------ |
+| Fig depicts xx                                               |
+| In essence, our method extends, ..., as demonstrated in Figure 1. |
 
 
 
