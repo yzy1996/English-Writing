@@ -25,21 +25,21 @@
 
 
 | 先说xx是最近一个大红大热的方向，简要写一下它的原理，它的好处；然而，现有方法还存在一些问题；为了解决它，我们提出了… |
-| ------------------------------------------------------------ |
+| :------------------------------------------------------------ |
 | xx **is a promisingnew avenue of** …, xx **ensure many advantages over** …; **However, the current approach is dufficult to** …; **To address this issue, we propose** … |
 | Recently, xx **has achieved great empirical success**, especially …; **However, a key problem** of xx is that …; **It's necessary to** … |
 
 
 
 | 某技术或者领域在实现TaskA上已经做得很好了，但TaskB还不能很好解决 |
-| ------------------------------------------------------------ |
+| :------------------------------------------------------------ |
 | **While** generating realistic images **is no longer a difficult task**, producing the corresponding 3D structure such that they can be rendered from different views **is non-trivial**. |
 | Neural Radiance Fields (NeRF) **have recently demonstrated** photo- realistic results **for the task of** novel view synthesis. In this paper, we propose to **apply** novel view synthesis **to** the robot relocalization problem: [details] |
 
 
 
 | 第一句直接说我们的名称，做了什么                             |
-| ------------------------------------------------------------ |
+| :------------------------------------------------------------ |
 | **We present a method for** learning a generative 3D model based on nerf, trained solely from data with only single views of each object. |
 
 
