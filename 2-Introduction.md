@@ -96,7 +96,6 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 | We propose to exploit                                        |
 | concretely/crucially/Specifically… , we propose a xx model .. |
 | In this work we demonstrate that                             |
-|                                                              |
 
 
 

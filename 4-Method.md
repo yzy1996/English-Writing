@@ -4,28 +4,63 @@
 
 
 
-| 一般开头写一个结构安排                                       |
+## 第一段大致介绍一下结构
+
+> 多强调你的方法的特点，与众不同之处，让审稿人一定能看到。
+
+
+
+| 第一句：预热一下                                             |
 | ------------------------------------------------------------ |
-| **In this section**, **we provide a more detailed description of the presented approach**, *IDE-3D*. **The organization of this section is as follows**: We introduce xx **in Sec. 3.1**, including xx. **In Sec. 3.2**, we first describe xx. **Then we present** xx. |
+| **We now present our** xx **framework for** xx.              |
+| **In this section**, **we provide a more detailed description of the presented approach**, xxx. |
+| Given xx, **we aim to achieve** xxx (你文章是干什么的)       |
+| Our goal is to ...                                           |
 
 
 
-| 在第一子目录前，一般最好写一段话交代本章节的结构安排，例如： |
+| 如果你的方法由多个部分构成的话                               |
 | ------------------------------------------------------------ |
-| Given xx, we aim to achieve xxx (你文章是干什么的，多提几次) |
+| **Our xx process is split into two parts**: **a** xx **branch**, **which** xxx, **and a** xx **branch that** xxx. |
+
+
+
+| 章节结构安排                                                 |
+| ------------------------------------------------------------ |
+| **In the following, we first introduce** xx **in Sec. 3.1**, **before proceeding to** xx **in Sec 3.2**. |
+| **The organization of this section is as follows**: We introduce xx **in Sec. 3.1**, including xx. **In Sec. 3.2**, we first describe xx. Then we present xx. |
 | To begin with, we review the basic idea and pipeline of xxx. |
-| Then, we introduce our efficient strategies during training... |
-| Finally, we represente the whole scene by our proposed xxx.  |
-| In this chapter, … Thereafter, … Then …                      |
+
+> 插补一些有用的连词：Thereafter
 
 
 
-| 正文介绍插图                                                 |
+
+| 最后一句：介绍核心的流程图                                   |
 | ------------------------------------------------------------ |
-| Fig depicts xx                                               |
-| In essence, our method extends, ..., as demonstrated in Figure 1. |
+| Fig. x **gives an overview of the training pipeline**.       |
+| **Our model is illustrated in** Fig. x.                      |
+| In essence, our method extends, ..., as demonstrated in Fig. 1 |
+| Fig.1 depicts xx                                             |
+| Fig.1 shows the framework of the proposed method.            |
 
 
+
+## 开始写方法
+
+
+
+### Training Details
+
+| 训练细节                                                     |
+| ------------------------------------------------------------ |
+| We inherit the training procedure from xx with minimal changes. |
+| The optimization is performed by Adam with learning rate of 0.002 and betas of 0 and 0.99 |
+| Further details can be found in the source code.             |
+
+
+
+## 其他
 
 | 有的时候会为了简单起见，省略一些符号表示 |
 | ---- |
@@ -33,6 +68,6 @@
 
 
 
-
-
-where λ is a positive constant trading off the importance of the first and second terms of the loss,
+| 对公式的描述                                                 |
+| ------------------------------------------------------------ |
+| where λ is a positive constant trading off the importance of the first and second terms of the loss |
