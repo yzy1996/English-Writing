@@ -10,7 +10,7 @@
 
 通常采用如下方式
 
-- 介绍背景，阐述问题，然后我们提出了一个新方法。
+- 介绍背景，阐述问题，然后我们提出了一个新方法来解决问题。
 - 什么方法对TaskA有效，我们想应用到TaskB。
 - （开门见山）我们提出了一个新方法，为什么要提出呢？
 
@@ -24,10 +24,12 @@
 
 
 
-| 先说xx是最近一个大红大热的方向，简要写一下它的原理，它的好处；然而，现有方法还存在一些问题；为了解决它，我们提出了… |
-| :------------------------------------------------------------ |
-| xx **is a promisingnew avenue of** …, xx **ensure many advantages over** …; **However, the current approach is dufficult to** …; **To address this issue, we propose** … |
+| 先说xx是最近一个大红大热的方向，简要写一下它的原理（是做什么），它的好处；然而，现有方法还存在一些问题；为了解决它，我们提出了… |
+| :----------------------------------------------------------- |
+| xx **is a promising new avenue of** …, xx **ensure many advantages over** …; **However, the current approach is dufficult to** …; **To address this issue, we propose** … |
 | Recently, xx **has achieved great empirical success**, especially …; **However, a key problem** of xx is that …; **It's necessary to** … |
+| 3D-aware image synthesis aims to generate images of objects from multiple views by learning a 3D representation. However, one key challenge remains: existing approaches lack geometry constraints, hence usually fail to generate multi-view consistent images. |
+| **We are witnessing an explosion** of neural implicit representations in computer vision and graphics. **Their applicability has recently expanded beyond tasks such as** xx. However, existing methods … **We introduce a new method that enables** xx. |
 
 
 
@@ -41,6 +43,8 @@
 | 第一句直接说我们的名称，做了什么                             |
 | :------------------------------------------------------------ |
 | **We present a method for** learning a generative 3D model based on nerf, trained solely from data with only single views of each object. |
+
+
 
 
 
@@ -91,6 +95,12 @@
 
 
 
+| 说在附录里也放了点东西                                       |
+| ------------------------------------------------------------ |
+| Finally, we supplement our empirical results with a careful analysis of each component of xx. |
+
+
+
 ## 直接的例子
 
 ### 融合式
@@ -98,3 +108,5 @@
 While NeRF has shown great success for neural reconstruction and rendering, its limited MLP capacity and long per-scene optimization times make it challenging to model large-scale indoor scenes. In contrast, classical 3D reconstruction methods can handle large-scale scenes but do not produce realistic renderings. We propose NeRFusion, a method that combines the advantages of NeRF and TSDF-based fusion techniques to achieve efficient large-scale reconstruction and photo-realistic rendering.
 
 > 先说一个**新技术**很成功，但依旧存在一些问题；(in contrast) **传统方法**可以解决这些问题，但也有一些问题；因此提出一个新方法，融合两种，实现了xxx 
+
+This work aims to integrate two learning paradigms MTL and Meta Learning

@@ -29,3 +29,5 @@
 PS: 一些 Latex 写作经验 https://github.com/yzy1996/Latex/tree/main/Treasure
 
 精选论文整理 [3D-Aware-Generation](https://github.com/yzy1996/Awesome-Learn-3D-From-2D/tree/main/3D-Aware-Generation) | [Awesome-Shape-Correspondence](https://github.com/yzy1996/Awesome-Shape-Correspondence)
+
+这也是个好东西！[Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)

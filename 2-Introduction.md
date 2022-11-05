@@ -27,7 +27,13 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 | xx has found numerous applications in xx field, particularly in the last two decade |
 | a theoretical understanding of GANs **is an on-going research topic** |
 | Abundant research has been conducted on xx                   |
-| 描述方法涵盖了很多方面，子问题<br/>a widely-used technique for solving many knids of vision and graphics tasks **ranging from** view synthesis, **to** re-lighting, **to** pose and shape estimation, **to** 3D-aware image synthesis and editing. |
+| 描述方法涵盖了很多方面，子问题<br/>a widely-used technique for solving many kinds of vision and graphics tasks **ranging from** view synthesis, **to** re-lighting, **to** pose and shape estimation, **to** 3D-aware image synthesis and editing. |
+
+
+
+| 直接从技术名称开始，介绍它的优点｜应用价值，然后第二段再转到它的缺点 |
+| ------------------------------------------------------------ |
+| GANs **excel at** synthesizing photo-realistic images.  Their conditional extension, conditional GANs, allows controllable image synthesis and **enables many computer vision and graphics applications** such xxx |
 
 
 
@@ -84,6 +90,20 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 
 
 
+如果方法是你第一个提出
+
+Existing approaches can not well have not been well studied 
+
+
+
+
+
+Despite its practical importance, up to our knowledge, we are the first to address this unexplored problem.
+
+To our knowledge, this is the first study in which the has not been proposed yet
+
+
+
 ## 第三段
 
 > 讲自己的方法
@@ -115,20 +135,20 @@ We mitigate problem
 
 
 
+## 最后一段
+
+> 说本文价值，夸就完事了
+
 | 本文价值，可以是分析了多种方法，比较了好坏                   |
 | ------------------------------------------------------------ |
-| 例子: We analyse and investigate multiple design choices for representing neural implicit surfaces, ranging form monolithic MLP models over single-grid to multi-resolution grid representations. |
+| We analyse and investigate multiple design choices for representing neural implicit surfaces, ranging form monolithic MLP models over single-grid to multi-resolution grid representations. |
 | The experiments in the paper would be more compelling        |
-| 强调虽然本文中我们只用在了某个数据集上，但这个方法可以适用于很多领域<br/><br/>while this study presented in this paper focus on xx, is also applicable to other domains |
+| 强调虽然本文中我们只用在了某个数据集上，但这个方法可以适用于很多领域<br/>while this study presented in this paper focus on xx, is also applicable to other domains |
 | As a result, our approach inherits xx 好处 and yy 好处, seperated from zz 不好的方法, which 具体不好的点。 |
 
 
 
-
-
-## 最后一段
-
-> 夸就完事了
+We empirically demonstrate the advantage of xx over existing approaches on a variety of xx tasks:
 
 
 
@@ -160,16 +180,13 @@ capable of unconditional video generation from a single video sample.
 | ------------------------------------------------------------ |
 | In summary, our main technical contributions are             |
 | Overall, the main contributions and benefits of our algorithm are summarized as follows: |
+| Our proposed framework has several theoretical and practical contributions: |
 
 
 
 | 有关公开代码                                      |
 | ------------------------------------------------- |
 | Code and models will be provided upon acceptance. |
-
-
-
-
 
 
 
