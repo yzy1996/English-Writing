@@ -2,6 +2,13 @@
 
 
 
+| 模型名字缩写                                                 |
+| ------------------------------------------------------------ |
+| We propose an algorithm termed as ReSeFa, for region-based semantic factorization. |
+| We present neural radiance fields (NeRF) with templates, dubbed Template-NeRF. |
+
+
+
 ## 开头句
 
 > 你为什么要提出这个方法？一般说过去的方法存在什么问题
@@ -110,3 +117,4 @@ While NeRF has shown great success for neural reconstruction and rendering, its 
 > 先说一个**新技术**很成功，但依旧存在一些问题；(in contrast) **传统方法**可以解决这些问题，但也有一些问题；因此提出一个新方法，融合两种，实现了xxx 
 
 This work aims to integrate two learning paradigms MTL and Meta Learning
+
