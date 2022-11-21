@@ -1,11 +1,20 @@
 # Abstract
 
+- [1.开头句](#开头句)
+- [2.中间句](#中间句)
+- [3.结尾句](#结尾句)
+- [4.例子](#例子)
 
+  
 
 | 模型名字缩写                                                 |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------- |
 | We propose an algorithm termed as ReSeFa, for region-based semantic factorization. |
 | We present neural radiance fields (NeRF) with templates, dubbed Template-NeRF. |
+
+| 如果要放代码的话，可以在最后加脚注   |
+| :----------------------------------- |
+| Code and models are available at xx. |
 
 
 
@@ -35,8 +44,9 @@
 | :----------------------------------------------------------- |
 | xx **is a promising new avenue of** …, xx **ensure many advantages over** …; **However, the current approach is dufficult to** …; **To address this issue, we propose** … |
 | Recently, xx **has achieved great empirical success**, especially …; **However, a key problem** of xx is that …; **It's necessary to** … |
-| 3D-aware image synthesis aims to generate images of objects from multiple views by learning a 3D representation. However, one key challenge remains: existing approaches lack geometry constraints, hence usually fail to generate multi-view consistent images. |
+| 3D-aware image synthesis aims to generate images of objects from multiple views by learning a 3D representation. **However, one key challenge remains**: **existing approaches lack** geometry constraints, hence usually fail to generate multi-view consistent images. |
 | **We are witnessing an explosion** of neural implicit representations in computer vision and graphics. **Their applicability has recently expanded beyond tasks such as** xx. However, existing methods … **We introduce a new method that enables** xx. |
+| **Despite the rapid advancement of** semantic discovery in the latent space of GANs, **existing approaches either are limited to** finding global attributes or … |
 
 
 
@@ -99,16 +109,15 @@
 | **In contrast to existing works** on neural 3D scene representation learning, this paper approaches the problem from a new perspective |
 | **Extensive experiments demonstrate that** our framework can achieve ideal editing results not only on synthetic data, but also on realscenes captured by users. |
 | **We empirically demonstrate that** xx achieve a much smaller loss than xx. |
-
-
+| **Experiments on** xx tasks conducted on a range of datasets substantiate the generalizability of our [model] as well as its substantial improvement over the baselines. |
 
 | 说在附录里也放了点东西                                       |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------- |
 | Finally, we supplement our empirical results with a careful analysis of each component of xx. |
 
 
 
-## 直接的例子
+## 例子
 
 ### 融合式
 
@@ -117,4 +126,8 @@ While NeRF has shown great success for neural reconstruction and rendering, its 
 > 先说一个**新技术**很成功，但依旧存在一些问题；(in contrast) **传统方法**可以解决这些问题，但也有一些问题；因此提出一个新方法，融合两种，实现了xxx 
 
 This work aims to integrate two learning paradigms MTL and Meta Learning
+
+
+
+
 

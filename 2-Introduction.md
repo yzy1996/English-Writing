@@ -2,6 +2,8 @@
 
 > 出处忘记了:sweat_smile:，与大家共勉。
 
+
+
 introduction重点在于说明自己的研究思路，很多人搞了半辈子的研究，到头来写文章时忘记的研究的初衷。好的套路就是把读者当成你的同行，讲清楚研究工作的来龙去脉。下面分三步说明。第一步，你发现有什么问题，这篇论文要解决什么问题？实际工作中存在什么问题。不要扯太远，尽量不要超过3句话。这第一步可能就把很多人难住了。尼玛课题都是老板定的，有个毛意义呀，不知道，就瞎扯一个。如果实在不清楚，说明占有的文献还不够，还得多读读。第二步，基于本人前期的研究基础，或者受前人的思路激发，我想出了方法来解决第一步的问题。这一步是关键。很多人的introduction根本没这些内容。完全就是一副“这玩意以前没人搞过，我用一种方法来试试”的态度。这一步为什么非常关键？因为同样的问题，如果很重要，很有意义的问题，肯定很多人想到了，为什么别人没做，而你想做？只有2种可能，我这里有研究基础，别人做不了，我能做。还有一种可能，这里面有难点，我也是受哪篇哪篇文章的激发，才想起解决方法，所以我才顺便试试，结果你看，一搞，结果挺好，所以来跟你们报告一下。这里面就需要吹吹牛逼了，可以弹压一下前人的工作，鼓吹一下自己的工作。第三步，前面牛吹了，后面当然要简单介绍一下结果，谈点意义，勾引读者往下看研究方法。论文的重点在于论，要讲清楚研究思路，而不是搞成实验报告。
 
 
@@ -23,10 +25,10 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 | **An explosively growing line of research on** xx **studies a new paradigm of** yy: [details of the paradigm] |
 | xx **has enjoyed tremendous growth** and **exhibited a wealth of development** at both the conceptual and application levels |
 | In recent years, with the **vigorous development** of xx yy **has attracted more and more interest in** both zz |
-| Successful applications have been demonstrated in areas spanning xx, xx |
-| xx has found numerous applications in xx field, particularly in the last two decade |
+| **Successful applications** have been demonstrated in areas spanning xx, xx |
+| xx has found **numerous applications** in xx field, particularly in the last two decade |
 | a theoretical understanding of GANs **is an on-going research topic** |
-| Abundant research has been conducted on xx                   |
+| **Abundant research** has been conducted on xx               |
 | 描述方法涵盖了很多方面，子问题<br/>a widely-used technique for solving many kinds of vision and graphics tasks **ranging from** view synthesis, **to** re-lighting, **to** pose and shape estimation, **to** 3D-aware image synthesis and editing. |
 
 
@@ -86,29 +88,29 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 
 
 
-发展很久了但应用到什么领域还是新的
+| 发展很久了但应用到什么领域还是新的 \| 这个问题还没有被深入研究，同时很具有研究价值 |
+| ------------------------------------------------------------ |
+| Despite its potential to serve as a powerful method to xx, this problem remains much less explored. |
+| Despite its practical importance, up to our knowledge, we are the first to address this unexplored problem. |
+| Existing approaches can not well have not been well studied  |
+| To our knowledge, this is the first study in which the has not been proposed yet |
 
 
-
-如果方法是你第一个提出
-
-Existing approaches can not well have not been well studied 
-
-
-
-
-
-Despite its practical importance, up to our knowledge, we are the first to address this unexplored problem.
-
-To our knowledge, this is the first study in which the has not been proposed yet
 
 
 
 ## 第三段
 
-> 讲自己的方法
+> 讲自己的方法；先笼统地说一下方法，然后具体地 specifically
 
-先笼统地说一下方法，然后具体地 specifically, 
+
+
+| 承上启下引入                                                 |
+| ------------------------------------------------------------ |
+| To address the above problem, we propose xx                  |
+| To answer this question, we conduct a comprehensive empirical study by xx |
+
+
 
 | 我们提出了                                                   |
 | ------------------------------------------------------------ |
@@ -116,6 +118,10 @@ To our knowledge, this is the first study in which the has not been proposed yet
 | We propose to exploit                                        |
 | concretely/crucially/Specifically… , we propose a xx model .. |
 | In this work we demonstrate that                             |
+
+
+
+This model has several benefits, 
 
 
 
@@ -135,6 +141,10 @@ We mitigate problem
 
 
 
+
+
+
+
 ## 最后一段
 
 > 说本文价值，夸就完事了
@@ -148,7 +158,12 @@ We mitigate problem
 
 
 
-We empirically demonstrate the advantage of xx over existing approaches on a variety of xx tasks:
+| 在很多数据集上进行了测试                                     |
+| ------------------------------------------------------------ |
+| We empirically demonstrate the advantage of xx over existing approaches on a variety of xx tasks: |
+| We evaluate our method on both tasks of 2D image synthesis and 3D-aware image synthesis. On a wide range of datasets including [xx data], [model name] exhibits consistent improvements over the baselines. |
+
+
 
 
 
@@ -196,7 +211,9 @@ capable of unconditional video generation from a single video sample.
 | ------------------------------------------------------------ |
 | Our work aims to answer the following question / Can this been done in an unsupervised manner |
 | **The research question we are addressing in this work is, whether** an event stream from a DVS moving around the scene is sufﬁcient to reconstruct a 3D representation of a static scene, e.g., NeRF. |
-| what extent has this inability of convolution persisted insidiously inside other tasks |
+| What extent has this inability of convolution persisted insidiously inside other tasks |
+| Is it possible to reconstruct the 3D shape of a single 2D image by exploiting the 3D-alike image manipulation effects produced by GANs? |
+| It naturally raises a question: does a discriminator with a fixed capacity meet the demand of such a dynamic training environment? |
 
 
 
@@ -227,8 +244,8 @@ its effective integration with xx
 
 | 方法不是原创的，但我拿来用到了一个新的领域                   |
 | ------------------------------------------------------------ |
-| *Tuning the generator to accommodate a given input image* (描述你的方法) is not new~\cite{}, we first introduce this approach to the field of *StyleGAN-based editing*. |
-| (最好还要写出我不是生硬地套过来，是因地制宜的，或者效果更好，达到了我的目的) In contrast to the aforementioned work, our technique maintains *the unique editing capabilities, while preserving identity accurately.* |
+| Tuning the generator to accommodate a given input image (描述你的方法) is not new~\cite{}, we first introduce this approach to the field of StyleGAN-based editing. |
+| (最好还要写出我不是生硬地套过来，是因地制宜的，或者效果更好，达到了我的目的) In contrast to the aforementioned work, our technique maintains the unique editing capabilities, while preserving identity accurately. |
 
 
 
@@ -251,6 +268,8 @@ we assume a fixed, and remove the subscript xx notation to simplify notation.
 which we will call a “diffusion model” for brevity
 
 
+
+Detailed theoretical analysis will be elaborated later.
 
 
 

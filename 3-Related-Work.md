@@ -1,6 +1,6 @@
 # Related Works
 
-> 这里举例很多种写作方式，可以自由组合调整
+> 这一部分是由很多小节构成，小节之间可以没有连贯性。在这里举例一个小节的多种写作方式，可以自由组合调整
 
 
 
@@ -11,21 +11,17 @@
 
 
 
-Its formulation has been adapted for improving A, dealing with B, removing C, and handling D. Although there have been some early attempts in E, the usage of F has never been explored for G. This work addresses this gap by proposing H as I that leverages K.
-
--- CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems
 
 
 
-先写个概述
 
-(一句话大概说说这个领域有很多方法)
+| 一句话大概说说这个领域有很多方法                             |
+| ------------------------------------------------------------ |
+| The most related to our work can be divided into two categories: A and B. The first focuses on xx ; The second xx |
+|                                                              |
+|                                                              |
 
-The most related to our work can be divided into two categories: A and B
 
-The first focuses on xx 
-
-The second xx
 
 
 
@@ -51,3 +47,16 @@ xx are related to many other bodies of work.
 
 We review recent advances in xx, as well as xx.
 
+
+
+
+
+|      |
+| ---- |
+|      |
+|      |
+|      |
+
+Its formulation has been adapted for improving A, dealing with B, removing C, and handling D. Although there have been some early attempts in E, the usage of F has never been explored for G. This work addresses this gap by proposing H as I that leverages K.
+
+-- CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems
