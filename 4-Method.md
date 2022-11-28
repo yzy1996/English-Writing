@@ -11,7 +11,7 @@
 
 
 | 第一句：预热一下                                             |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------- |
 | **We now present our** xx **framework for** xx.              |
 | **In this section**, **we provide a more detailed description of the presented approach**, xxx. |
 | Given xx, **we aim to achieve** xxx (你文章是干什么的)       |
@@ -26,7 +26,7 @@
 
 
 | 章节结构安排                                                 |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------- |
 | **In the following, we first introduce** xx **in Sec. 3.1**, **before proceeding to** xx **in Sec 3.2**. |
 | **The organization of this section is as follows**: We introduce xx **in Sec. 3.1**, including xx. **In Sec. 3.2**, we first describe xx. Then we present xx. |
 | To begin with, we review the basic idea and pipeline of xxx. |
@@ -37,12 +37,13 @@
 
 
 | 最后一句：介绍核心的流程图                                   |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------- |
 | Fig. x **gives an overview of the training pipeline**.       |
 | **Our model is illustrated in** Fig. x.                      |
 | In essence, our method extends, ..., as demonstrated in Fig. 1 |
 | Fig.1 depicts xx                                             |
 | Fig.1 shows the framework of the proposed method.            |
+| schematic illustrating                                       |
 
 
 
@@ -53,7 +54,7 @@
 ### Training Details
 
 | 训练细节                                                     |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------- |
 | We inherit the training procedure from xx with minimal changes. |
 | The optimization is performed by Adam with learning rate of 0.002 and betas of 0 and 0.99 |
 | Further details can be found in the source code.             |
@@ -63,11 +64,20 @@
 ## 其他
 
 | 有的时候会为了简单起见，省略一些符号表示 |
-| ---- |
+| :--- |
 | for the sake of simplicity, we |
 
 
 
 | 对公式的描述                                                 |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------- |
 | where λ is a positive constant trading off the importance of the first and second terms of the loss |
+
+
+
+| 一些不错的说辞                                               |
+| :----------------------------------------------------------- |
+| we want to avoid investing effort into a component that is not a part of the actual solution. |
+
+
+

@@ -5,26 +5,26 @@
 
 
 | 先笼统介绍，再细说一些方法的核心区别                         |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------- |
 | **Some using full-supervision** in the form of semantic labels, **others** find meaningful directions **in a self-supervised fashion**, and, **finally**, recent works present **unsupervised methods** to achieve the same goal. |
 | **More specifically**, **xx use** supervision in the form of facial attribute labels to find meaningful linear direction... **yy perform** eigenvector decomposition on the generator's weights to find edit directions without additional supervision. |
 
 
 
 | 一句话大概说说这个领域有很多方法                             |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------- |
 | The most related to our work can be divided into two categories: A and B. The first focuses on xx ; The second xx |
 
 
 
 | 针对每一个方法，先概述数量多少                            |
-| --------------------------------------------------------- |
+| :-------------------------------------------------------- |
 | Only very few works have explored xx in the context of xx |
 
 
 
 | 有很多方法为了解决什么问题，但他们都只关心了。。             |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------- |
 | We review recent advances in xx, as well as xx.              |
 | xx are related to many other bodies of work.                 |
 | Our method build upon this line of research                  |

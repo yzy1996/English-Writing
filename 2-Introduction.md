@@ -212,7 +212,7 @@ we incorporate xx into our model
 its effective integration with xx
 
 | 方法不是原创的，但我拿来用到了一个新的领域                   |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------- |
 | Tuning the generator to accommodate a given input image (描述你的方法) is not new~\cite{}, we first introduce this approach to the field of StyleGAN-based editing. |
 | (最好还要写出我不是生硬地套过来，是因地制宜的，或者效果更好，达到了我的目的) In contrast to the aforementioned work, our technique maintains the unique editing capabilities, while preserving identity accurately. |
 

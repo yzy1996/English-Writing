@@ -4,14 +4,15 @@
 
 ## 第一段话
 
-| 笼统地概括                                              |
-| ------------------------------------------------------- |
-| We conduct extensive experiments to evaluate our model. |
+| 笼统地概括                                                   |
+| :----------------------------------------------------------- |
+| We conduct extensive experiments to evaluate our model.      |
+| This section presents qualitative and quantitative comparisons with state-of-the-art methods and analysis of our method. Additional experiments and discussions not included in this paper can be found in the supplementary material. |
 
 
 
 | 结构介绍                                                     |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------- |
 | **We first compare the quality of the** xx **to the existing methods using** xx **datasets**. **Next, we ablate our design choices in** Sec. x. **Finally, we demonstrate** the xx. Additional experimental results and implementation details are provided in Appendix. |
 
 
@@ -23,13 +24,13 @@
 
 
 | Dataset                                                  |
-| -------------------------------------------------------- |
+| :------------------------------------------------------- |
 | We conduct experiments on three widely-used xx datasets: |
 
 
 
 | Results                                    |
-| ------------------------------------------ |
+| :----------------------------------------- |
 | We report the quantitative results of xxx. |
 
 
@@ -49,3 +50,9 @@ As shown in Fig.1
 Fig.1 shows that 
 
 We depict xx in Fig.
+
+
+
+
+
+Our evaluation metrics are PSNR/SSIM (higher is better)and LPIPS [73] (lower is better).
