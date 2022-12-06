@@ -71,15 +71,17 @@
 
 | 前面描述存在什么问题，在这里我们希望解决他                   |
 | :----------------------------------------------------------- |
-| To this end （为了这个目的）, this paper proposes xx with three distinct novelties. |
+| To this end, this paper proposes xx with three distinct novelties. |
+| With the proposed framework, we discover that existing works usually utilize xx, and we further develop two novel objective functions considering xx showing [ad1] or [ad2] capabilities respectively. |
 
 
 
-| 直接说我们提出了什么算法，它有什么用；它的核心是什么  |
-| :---------------------------------------------------- |
-| In this work, we present/ xxx algorithm, which can xx |
-| A key part of our approach is to xx                   |
-| The key to our approach is to utilize xx              |
+| 直接说我们提出了什么算法，它有什么用；它的核心是什么         |
+| :----------------------------------------------------------- |
+| In this work, we present/ xxx algorithm, which can xx        |
+| A key part of our approach is to xx                          |
+| The key to our approach is to utilize xx                     |
+| Moreover, we provide the convergence proofs and expressive power comparisons for the proposed models. |
 
 
 

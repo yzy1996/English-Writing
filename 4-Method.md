@@ -63,9 +63,10 @@
 
 ## 其他
 
-| 有的时候会为了简单起见，省略一些符号表示 |
+| 有的时候会为了简单起见，省略一些符号标记 |
 | :--- |
 | for the sake of simplicity, we |
+| For ease of notation, we will use latent codes c to denote the concatenation of all latent variables ci. |
 
 
 
@@ -80,4 +81,17 @@
 | we want to avoid investing effort into a component that is not a part of the actual solution. |
 
 
+
+
+
+## 数学公式相关
+
+just show many examples
+
+
+$$
+f_{j}^{\prime}=\left[\nabla_{\mathbf{x}} f_{j}\left(\mathbf{x}_{0}\right)\right]^{t} \mathbf{d}
+$$
+
+where $\nabla_{\mathbf{x}}$ is the symbol for the gradient w.r.t. $\mathbf{x}$ and the superscript $^{t}$ stands for transposition. One seeks for a vector $\mathbf{d}$ such that the scalar product of any objective gradient $\nabla_{x} f_{j}\left(\mathbf{x}_{0}\right)$ with the vector d remains strictly positive $f_{j}^{\prime} > 0$
 

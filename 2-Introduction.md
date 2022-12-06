@@ -59,7 +59,7 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 | lagged far behind 现在新领域的方法远远落后于过去某一领域的技术 |
 | A body of works 一批工作 / Prior attempts ..                 |
 | Several follow-up studies propose to ...                     |
-| 什么技术 hamper the applicability of the method. （妨碍了他的广泛应用） |
+| xx hamper the applicability of the method. （妨碍了他的广泛应用） |
 | A prominent difficulty                                       |
 | unmet needs of  不满足的需求                                 |
 | One prominent hurdle (突出的障碍) of the existing method is xx |
@@ -67,6 +67,7 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 | We argue that it is more desirable to xx                     |
 | an inevitable problem 不可避免的问题 has two severe difficulties: |
 | The image quality still lags far behind (落后) other methods |
+| in contrast, previous work                                   |
 
 
 
@@ -119,6 +120,7 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 | We propose to exploit                                        |
 | concretely/crucially/Specifically… , we propose a xx model .. |
 | In this work we demonstrate that                             |
+| To tackle the problem, we extend                             |
 
 
 
@@ -196,6 +198,7 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 | :----------------------------------------------------------- |
 | Our work can be classified as a category-specific 3D aware neural novel view synthesis method. |
 | Our [model name] can be categorized into representation learning as well as architecture design for GANs. |
+| Closed to our approach is xx, where they xx. Different from their work, we use |
 
 
 

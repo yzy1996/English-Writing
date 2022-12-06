@@ -41,18 +41,27 @@
 
 
 
-## 图的描述
-
-in Fig.1
-
-As shown in Fig.1
-
-Fig.1 shows that 
-
-We depict xx in Fig.
 
 
+## 插图
 
+| 插图说明文字的开头，一般最好加粗 |
+| :------------------------------- |
+| Illustration of xx               |
+| Examples on/for xx.              |
+| xx results.                      |
 
+| 插图说明文字的内容                                           |
+| :----------------------------------------------------------- |
+| First row shows xx, while the following two rows present xx. |
+| The image in the red dashed box stands for xx.               |
+| The first two row show xx. The last row show xx.             |
+| Our evaluation metrics are PSNR/SSIM (higher is better)and LPIPS [73] (lower is better). |
 
-Our evaluation metrics are PSNR/SSIM (higher is better)and LPIPS [73] (lower is better).
+| 正文介绍插图         |
+| -------------------- |
+| in Fig.1             |
+| We depict xx in Fig. |
+| As shown in Fig.1    |
+| Fig.1 shows that     |
+
