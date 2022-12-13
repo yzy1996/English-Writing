@@ -21,13 +21,12 @@
     - [Experiment](./5-Experiment.md)
     - [Conclusion](./6-Conclusion.md)
     - ...
-  - 数学符号: [Math-Notion.md](./Math-Notion.md) | [Notation.pdf](./Notation.pdf)
 
 
 ---
 
 PS: 一些 Latex 写作经验 https://github.com/yzy1996/Latex/tree/main/Treasure
 
-精选论文整理 [3D-Aware-Generation](https://github.com/yzy1996/Awesome-Learn-3D-From-2D/tree/main/3D-Aware-Generation) | [Awesome-Shape-Correspondence](https://github.com/yzy1996/Awesome-Shape-Correspondence)
+精选论文整理 [3D-Aware-Generation](https://github.com/yzy1996/Awesome-Learn-3D-From-2D/tree/main/3D-Aware-Generation) | [Awesome-Shape-Correspondence](https://github.com/yzy1996/Awesome-Shape-Correspondence) |[Awesome-GANs](https://github.com/yzy1996/Awesome-GANs) | [Neural Radiance Fields](https://github.com/yzy1996/Awesome-Learn-3D-From-2D/tree/main/3D%20Representation%20and%20Reconstruction/2-Implicit%20Neural%20Representation%20(INR)/Neural%20Radiance%20Fields%20(NeRF))
 
 这也是个好东西！[Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)

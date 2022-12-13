@@ -40,10 +40,11 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 
 
 
-| 交代你所解决的任务                  |
-| :---------------------------------- |
-| We consider the task of ...         |
-| A key challenge in this task is ... |
+| 交代你所解决的任务                                           |
+| :----------------------------------------------------------- |
+| We consider the task of ...                                  |
+| A key challenge in this task is ...                          |
+| xx addresses this issue by integrating xx into xx and enabling xx. |
 
 
 

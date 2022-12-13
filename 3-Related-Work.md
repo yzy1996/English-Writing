@@ -33,3 +33,13 @@
 
 
 
+
+
+## 同期工作
+
+| 最后做个比较                                                 |
+| ------------------------------------------------------------ |
+| The concurrently developed 3D-aware GANs StyleNeRF and CIPS-3D [73] demonstrate impressive image quality. The central distinction between these and ours is that while StyleNeRF and CIPS-3D operate primarily in image-space, with less emphasis on the 3D representation, our method operates primarily in 3D. Our approach demonstrates greater view consistency, and is capable of generating high-quality 3D shapes. |
+|                                                              |
+|                                                              |
+

@@ -95,3 +95,6 @@ $$
 
 where $\nabla_{\mathbf{x}}$ is the symbol for the gradient w.r.t. $\mathbf{x}$ and the superscript $^{t}$ stands for transposition. One seeks for a vector $\mathbf{d}$ such that the scalar product of any objective gradient $\nabla_{x} f_{j}\left(\mathbf{x}_{0}\right)$ with the vector d remains strictly positive $f_{j}^{\prime} > 0$
 
+
+
+we use xx to denote xx
