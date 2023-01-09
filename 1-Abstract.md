@@ -54,6 +54,7 @@
 | :------------------------------------------------------------ |
 | **While** generating realistic images **is no longer a difficult task**, producing the corresponding 3D structure such that they can be rendered from different views **is non-trivial**. |
 | Neural Radiance Fields (NeRF) **have recently demonstrated** photo- realistic results **for the task of** novel view synthesis. In this paper, we propose to **apply** novel view synthesis **to** the robot relocalization problem: [details] |
+| However, such advancements have not been fully migrated to the community of xx. |
 
 
 

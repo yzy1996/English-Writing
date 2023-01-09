@@ -175,6 +175,12 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 | :------------------------------------------------ |
 | Code and models will be provided upon acceptance. |
 
+| 论文结构                                                     |
+| ------------------------------------------------------------ |
+| The reminder of this paper is organized as follows. In Sect. 2, we review previous studies that are closely related to the general scope of our work. In Sect. 3, we introduce specific techniques involved in . In Sect. 4, we discuss different possibilities for . We document the implementation details, experimental settings, and comparative results in Sect. 5. In the end, we conclude this paper in Sect. 7. |
+
+
+
 
 
 ## 点睛之笔
