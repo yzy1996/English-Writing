@@ -1,4 +1,4 @@
-<h1 align="center">Enhance Your English Writing :punch:</h1>
+<h1 align="center">Enhance Your English Writing for Science Research:punch:</h1>
 <div align="center">
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
