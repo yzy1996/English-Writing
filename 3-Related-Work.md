@@ -1,4 +1,4 @@
-# Related Works
+# <p align=center>`Related Works` </p>
 
 > 这一部分是由很多小节构成，小节之间可以没有连贯性。在这里举例一个小节的多种写作方式，可以自由组合调整
 

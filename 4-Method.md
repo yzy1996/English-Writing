@@ -1,4 +1,4 @@
-# Methods
+# <p align=center>`Methods` </p>
 
 > 本章节既可以叫 Methods（加不加s都行），或者叫 Our Approach
 
@@ -16,6 +16,7 @@
 | **In this section**, **we provide a more detailed description of the presented approach**, xxx. |
 | Given xx, **we aim to achieve** xxx (你文章是干什么的)       |
 | Our goal is to ...                                           |
+| This section introduces the overall working mechanism and specific technical implementations of the proposed xx. |
 
 
 
@@ -30,6 +31,7 @@
 | **In the following, we first introduce** xx **in Sec. 3.1**, **before proceeding to** xx **in Sec 3.2**. |
 | **The organization of this section is as follows**: We introduce xx **in Sec. 3.1**, including xx. **In Sec. 3.2**, we first describe xx. Then we present xx. |
 | To begin with, we review the basic idea and pipeline of xxx. |
+| To facilitate understanding, we begin with an overview of our framework xx |
 
 > 插补一些有用的连词：Thereafter
 

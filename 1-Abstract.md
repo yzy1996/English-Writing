@@ -1,4 +1,4 @@
-# Abstract
+# <p align=center>`Abstract` </p>
 
 - [1.开头句](#开头句)
 - [2.中间句](#中间句)
@@ -63,6 +63,10 @@
 | **We present a method for** learning a generative 3D model based on nerf, trained solely from data with only single views of each object. |
 
 
+
+| 我们在最近一些比较好的技术基础上，做了什么                   |
+| ------------------------------------------------------------ |
+| **Recent advances in** Neural Radiance Fields (NeRFs) **treat the problem of** novel view synthesis **as** Sparse Radiance Field (SRF) optimization **using** sparse voxels **for** efficient and fast rendering. **In order to leverage** xx, **we present** xx. |
 
 
 
