@@ -65,7 +65,7 @@
 
 
 | 我们在最近一些比较好的技术基础上，做了什么                   |
-| ------------------------------------------------------------ |
+| :------------------------------------------------------------ |
 | **Recent advances in** Neural Radiance Fields (NeRFs) **treat the problem of** novel view synthesis **as** Sparse Radiance Field (SRF) optimization **using** sparse voxels **for** efficient and fast rendering. **In order to leverage** xx, **we present** xx. |
 
 
