@@ -38,6 +38,7 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 | a theoretical understanding of GANs **is an on-going research topic** |
 | **Abundant research** has been conducted on xx               |
 | 描述方法涵盖了很多方面，子问题<br/>a widely-used technique for solving many kinds of vision and graphics tasks **ranging from** view synthesis, **to** re-lighting, **to** pose and shape estimation, **to** 3D-aware image synthesis and editing. |
+| xx have become prevalent in recent years. 盛行的，普遍的 |
 
 
 
@@ -76,6 +77,8 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 | an inevitable problem 不可避免的问题 has two severe difficulties: |
 | The image quality still lags far behind (落后) other methods |
 | in contrast, previous work                                   |
+| several attempts are being made to ... 现有的一些工作已经在怎么做了 |
+| xx is still **lagging** 现有方法还依旧是落后的               |
 
 
 
@@ -102,7 +105,7 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 | :----------------------------------------------------------- |
 | Despite its potential to serve as a powerful method to xx, this problem remains much less explored. |
 | Despite its practical importance, up to our knowledge, we are the first to address this unexplored problem. |
-| Existing approaches can not well have not been well studied  |
+| Existing approaches can not well \| have not been well studied |
 | To our knowledge, this is the first study in which the has not been proposed yet |
 
 
@@ -110,6 +113,7 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 | 最近开始流行一个新技术                                       |
 | ------------------------------------------------------------ |
 | Looking at the research in recent years, there is an overwhelming evidence in support of xx credited to xx. |
+| With the rapid developments in xx                            |
 
 
 
@@ -143,6 +147,7 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 | Technically/Concretely/Crucially/Specifically… , we propose a xx model .. |
 | In this work we demonstrate that                             |
 | To tackle the problem, we extend                             |
+| Here we put forward a new view of                            |
 
 
 
@@ -213,6 +218,10 @@ introduction重点在于说明自己的研究思路，很多人搞了半辈子�
 | What extent has this inability of convolution persisted insidiously inside other tasks |
 | Is it possible to reconstruct the 3D shape of a single 2D image by exploiting the 3D-alike image manipulation effects produced by GANs? |
 | It naturally raises a question: does a discriminator with a fixed capacity meet the demand of such a dynamic training environment? |
+| Thus, in this paper, we aim toaddress the following questions: **Do MAML and ANIL provably learn high-qualityrepresentations? If so, why?**<br />![image-20230418111556174](https://raw.githubusercontent.com/yzy1996/Image-Hosting/master/202304181115418.png) |
+| Hence, anatural question to ask is,<br />![image-20230816112314557](https://raw.githubusercontent.com/yzy1996/Image-Hosting/master/202308161123021.png) |
+
+
 
 
 
@@ -249,27 +258,31 @@ its effective integration with xx
 
 
 
-
-
 ## 有时候为了节省篇幅，会省略一些东西，就需要加以说明
 
-for ease of notation, we will simply write the xxx
-
-For convenience, we follow the convention for xx by letting subscripts denote absolute yy
-
-For clarity, we omit z from hereon forward
-
-we dropped the vector arrows for ease of notation).
-
-for more details, we refer readers to sb
-
-we assume a fixed, and remove the subscript xx notation to simplify notation.
-
-which we will call a “diffusion model” for brevity
+| 省略                                                         |
+| ------------------------------------------------------------ |
+| for ease of notation, we will simply write the xxx           |
+| For convenience, we follow the convention for xx by letting subscripts denote absolute yy |
+| For clarity, we omit z from hereon forward                   |
+| we dropped the vector arrows for ease of notation.           |
+| for more details, we refer readers to sb                     |
+| we assume a fixed, and remove the subscript xx notation to simplify notation. |
+| which we will call a “diffusion model” for brevity           |
+| Detailed theoretical analysis will be elaborated later.      |
+|                                                              |
 
 
 
-Detailed theoretical analysis will be elaborated later.
+
+
+
+
+
+
+
+
+
 
 
 
