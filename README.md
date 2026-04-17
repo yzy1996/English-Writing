@@ -20,7 +20,10 @@
     - [Method](./4-Method.md)
     - [Experiment](./5-Experiment.md)
     - [Conclusion](./6-Conclusion.md)
-    - ...
+    - [Appendix](./7-Appendix.md)
+    - [Rebuttal](./8-Rebuttal.md)
+- AI 辅助润色
+  - [ChatGPT 润色指南](./ChatGPT-Help.md)
 
 
 ---

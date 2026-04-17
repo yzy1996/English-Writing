@@ -1,0 +1,9 @@
+{
+  "name": "english-writing",
+  "version": "1.0.0",
+  "description": "Academic paper writing assistance for CS/ML researchers",
+  "author": {
+    "name": "yzy"
+  },
+  "keywords": ["academic", "writing", "paper", "polish", "english", "research"]
+}

@@ -88,15 +88,38 @@
 
 ## 数学公式相关
 
-just show many examples
-
-
-$$
-f_{j}^{\prime}=\left[\nabla_{\mathbf{x}} f_{j}\left(\mathbf{x}_{0}\right)\right]^{t} \mathbf{d}
-$$
-
-where $\nabla_{\mathbf{x}}$ is the symbol for the gradient w.r.t. $\mathbf{x}$ and the superscript $^{t}$ stands for transposition. One seeks for a vector $\mathbf{d}$ such that the scalar product of any objective gradient $\nabla_{x} f_{j}\left(\mathbf{x}_{0}\right)$ with the vector d remains strictly positive $f_{j}^{\prime} > 0$
+| 定义符号                                                     |
+| :----------------------------------------------------------- |
+| We use $\mathbf{x}$ to denote xx, and $\theta$ to represent the learnable parameters. |
+| Let $\mathcal{X}$ denote the input space and $\mathcal{Y}$ the output space. |
+| where $\nabla_{\mathbf{x}}$ is the gradient w.r.t. $\mathbf{x}$, and the superscript $^\top$ denotes transposition. |
+| Here we omit the subscript $t$ for simplicity.               |
 
 
 
-we use xx to denote xx
+| 介绍损失函数                                                 |
+| :----------------------------------------------------------- |
+| The total loss is defined as: $\mathcal{L} = \mathcal{L}_{\text{rec}} + \lambda \mathcal{L}_{\text{reg}}$ |
+| where $\lambda$ is a positive constant trading off the importance of the reconstruction and regularization terms. |
+| We optimize the following objective: ...                     |
+| The loss function consists of two terms: a [X] loss and a [Y] loss. |
+
+
+
+| 描述操作/变换                                                |
+| :----------------------------------------------------------- |
+| We formulate [task] as [optimization problem / mapping / minimization of]. |
+| Given [input], we aim to [predict / estimate / recover] [output]. |
+| This can be written as: $\mathbf{y} = f_\theta(\mathbf{x})$  |
+| Formally, we define [X] as follows:                          |
+| The [module] takes [input] as input and outputs [output].    |
+
+
+
+| 推导/化简                                                    |
+| :----------------------------------------------------------- |
+| Substituting Eq. (X) into Eq. (Y), we obtain ...            |
+| This follows directly from [prior result / assumption].      |
+| By rearranging terms, we get ...                             |
+| Taking the derivative w.r.t. $\theta$, we have ...          |
+| In the limit of [X → ∞ / X → 0], Eq. (Y) reduces to ...    |
